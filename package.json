@@ -1,0 +1,11 @@
+{
+  "name": "homie-db-workaround",
+  "version": "1.0.0",
+  "description": "NodeJS server, connected to Heroku to add a free ClearDB add-on, to use with the HOMIE web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Boons",
+  "license": "ISC"
+}
